@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="./img/logo3x.png" width="250px" /><br>
+<img src="./assets/logo3x.png" width="250px" /><br>
  <b>Projeto Semana Omnistack 11</b>
 </h4>
 
