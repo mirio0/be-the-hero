@@ -1,6 +1,6 @@
-<h4 align="center">
+<h1 align="center">
  <b>Projeto Semana Omnistack 11</b>
-</h4>
+</h1>
 
 ### Tecnologias:
 
